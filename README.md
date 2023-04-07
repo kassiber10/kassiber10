@@ -1,5 +1,6 @@
-## Hi👋 my name is Alex and i'm a...
-...learning Webdeveloper who likes Frontends the most but is also experienced in doing Fullstack..
+## Hi👋 my name is Alex 
+### i'm a learning Webdeveloper
+who likes Frontends the most but is also experienced in doing Fullstack..
 
 - 🔭 I’m currently working on a Fullstack App for a photographer build with Vue.js/Nuxt
 - 🌱 I’m currently learning Svelte
