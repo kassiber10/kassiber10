@@ -1,11 +1,10 @@
 ## 👋 i'm Alex! 
-### ...a Fullstack Webdeveloper
-...who likes Frontends
+### ...a Fullstack Webdeveloper who likes Frontends
 
 - 🔭 I’m currently working on a Fullstack App for a photographer build with Vue.js/Nuxt
 - 🌱 I’m currently learning Svelte
 #### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,vite,php,mysql,java,git,github,express&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,vite,php,mysql,java,git,github,express,svelte&perline=3)](https://skillicons.dev)
 - 
 <!--
 **kassiber10/kassiber10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
