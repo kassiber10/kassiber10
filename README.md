@@ -1,7 +1,7 @@
 ## 👋 i'm Alex! 
-### ...a Fullstack Webdeveloper who likes Frontends
+### ...Fullstack Developer who likes Frontends
 
-- 🔭 I’m currently working on a Fullstack App for a photographer build with Vue.js/Nuxt
+- 🔭 I’m currently working on a Fullstack App for a photographer built with Vue.js
 - 🌱 I’m currently learning Svelte
 #### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,vite,php,mysql,java,git,github,express,svelte&perline=3)](https://skillicons.dev)
