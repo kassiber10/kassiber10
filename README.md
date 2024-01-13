@@ -1,5 +1,4 @@
 ## 👋 i'm Alex! 
-### ...Fullstack Developer who likes Frontends and music
 
 #### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,svelte,angular,vite,php,mysql,java,git,github,express&perline=3)](https://skillicons.dev)
