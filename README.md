@@ -1,6 +1,6 @@
-## 👋 i'm Alex! 
+## 👋 i'm Alex!
 
-#### My Skills
+#### and i like to work with:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,svelte,angular,vite,php,mysql,java,git,github,express&perline=3)](https://skillicons.dev)
 - 
 <!--
